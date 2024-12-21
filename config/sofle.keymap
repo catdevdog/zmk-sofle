@@ -41,15 +41,6 @@
         tap-ms = <30>;
     };
 
-    macros {
-        ko_en: ko_en {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings = <&kp LANG1>;
-            label = "KO_EN";
-        };
-    };
-
     keymap {
         compatible = "zmk,keymap";
 
