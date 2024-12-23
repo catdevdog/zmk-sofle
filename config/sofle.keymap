@@ -85,7 +85,7 @@
 &kp TAB    &kp Q   &kp W   &kp E     &kp R      &kp T     &trans  &kp Y   &kp U   &kp I      &kp O    &kp P     &kp BSLH
 &kp CAPS   &kp A   &kp S   &kp D     &kp F      &kp G     &trans  &kp H   &kp J   &kp K      &kp L    &kp SEMI  &kp APOS
 &kp LCTRL  &kp Z   &kp X   &kp C     &kp V      &kp B     &trans  &kp N   &kp M   &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
-&trans     &trans  &trans  &kp LALT  &kp SPACE  &trans    &trans  &trans  &trans  &trans     &trans   &trans
+&trans     &trans  &trans  &kp LALT  &kp SPACE  &tog 3    &trans  &trans  &trans  &trans     &trans   &trans
             >;
         };
     };
